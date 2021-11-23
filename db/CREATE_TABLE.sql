@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS vocabulary(
+    word VARCHAR(100) UNIQUE NOT NULL
+);
