@@ -1,4 +1,3 @@
----
 # Environment variables
 
 create .env file and add:
